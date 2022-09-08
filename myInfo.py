@@ -5,3 +5,4 @@
 print("Gianna Rao")
 print("1 Main Street Monmouth NJ 12345")
 print("123-456-7890")
+print("My major is Software Engineering")
