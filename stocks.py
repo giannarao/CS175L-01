@@ -2,15 +2,11 @@
 #stocks
 
 #inputs
-#numberOfShares = 2000.00
-#purchasePrice = 40.00
-#commission = 0.03
-#salePrice = 42.75
+numberOfShares = 2000.00
+purchasePrice = 40.00
+commission = 0.03
+salePrice = 42.75
 
-numberOfShares = float(input("Enter the number of shares: "))
-purchasePrice = float(input("Enter the purchase price: "))
-commission = float(input("Enter the commission rate: "))
-salePrice = float(input("Enter the sale price: "))
 
 #calculations
 amountPaid = numberOfShares * purchasePrice
