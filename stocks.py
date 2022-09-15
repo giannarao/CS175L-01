@@ -1,3 +1,6 @@
+#Gianna Rao
+#stocks
+
 #inputs
 #numberOfShares = 2000.00
 #purchasePrice = 40.00
