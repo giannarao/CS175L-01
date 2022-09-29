@@ -36,27 +36,6 @@ while another_search == "yes":
    if vegan == False:
        print ("Main Street Pizza")
 
-   another_search = input("Do you want to do another search? ")
+   another_search = input("Enter 'yes' if you would like to do another restaurant search (enter 'no' to end) : ")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
